@@ -36,12 +36,7 @@ Code and weights are being cleaned up and will be released by **December 2026**.
 
 - [x] Paper accepted (WACV 2027)
 - [ ] arXiv preprint and project page
-- [ ] Environment setup and model download scripts
-- [ ] Inference: per-subject test-time adaptation (static-clip LoRA) on UniAnimate-DiT
-- [ ] Pseudo-ground-truth generation with the pose-conditioned generator and reward-guided sampling
-- [ ] Pretrained generator weights (TikTok, UBC Fashion) on Hugging Face
-- [ ] Generator training code
-- [ ] Evaluation protocol and scripts (PSNR, SSIM, LPIPS, FID, FVD, FID-VID, FaceID, BodySIM, dtSSD)
+- [ ] Code & weights
 
 Watch or star the repository to be notified when the release lands.
 
