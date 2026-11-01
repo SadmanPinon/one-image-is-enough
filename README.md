@@ -9,7 +9,7 @@ Jacob Kingi<sup>1,2</sup>, Yang Wang<sup>1,2</sup>, Xinxin Zuo<sup>1</sup>
 
 <sup>1</sup>Concordia University &nbsp;&nbsp; <sup>2</sup>Mila – Quebec AI Institute
 
-Paper (coming soon) · arXiv (coming soon) · Weights (coming soon) · Benchmark (coming soon)
+Paper (coming soon) · arXiv (coming soon) · Weights (coming soon)
 
 </div>
 
@@ -42,7 +42,6 @@ Code and weights are being cleaned up and will be released by **December 2026**.
 - [ ] Pretrained generator weights (TikTok, UBC Fashion) on Hugging Face
 - [ ] Generator training code
 - [ ] Evaluation protocol and scripts (PSNR, SSIM, LPIPS, FID, FVD, FID-VID, FaceID, BodySIM, dtSSD)
-- [ ] Unseen100-Val benchmark (gated release)
 
 Watch or star the repository to be notified when the release lands.
 
@@ -62,8 +61,7 @@ This work builds on the following open-source projects; we thank their authors.
   [FLUX.1 [dev] Non-Commercial License](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev/blob/main/LICENSE.md).
 - **Third-party models** (Wan2.1, UniAnimate-DiT, FLUX.1 Kontext) are not redistributed here and remain under
   their own licenses; download them from their official sources.
-- **Datasets:** TikTok and UBC Fashion remain under their original terms. Unseen100-Val will be released
-  under its own terms for research use.
+- **Datasets:** TikTok and UBC Fashion remain under their original terms.
 
 ## Citation
 
