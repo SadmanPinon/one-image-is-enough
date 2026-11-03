@@ -9,7 +9,7 @@ Jacob Kingi<sup>1,2</sup>, Yang Wang<sup>1,2</sup>, Xinxin Zuo<sup>1</sup>
 
 <sup>1</sup>Concordia University &nbsp;&nbsp; <sup>2</sup>Mila – Quebec AI Institute
 
-Paper (coming soon) · arXiv (coming soon) · Weights (coming soon)
+Paper (coming soon) · [arXiv](https://arxiv.org/abs/2611.02964) · Weights (coming soon)
 
 </div>
 
@@ -28,6 +28,7 @@ losing its motion prior. No subject video, ground truth, or labels are needed.
 
 ## News
 
+- **[2026-11]** Preprint released on [arXiv](https://arxiv.org/abs/2611.02964).
 - **[2026-10]** Paper accepted to **WACV 2027**.
 
 ## Release plan
@@ -35,7 +36,8 @@ losing its motion prior. No subject video, ground truth, or labels are needed.
 Code and weights are being cleaned up and will be released by **December 2026**.
 
 - [x] Paper accepted (WACV 2027)
-- [ ] arXiv preprint and project page
+- [x] [arXiv preprint](https://arxiv.org/abs/2611.02964)
+- [ ] Project page
 - [ ] Code & weights
 
 Watch or star the repository to be notified when the release lands.
